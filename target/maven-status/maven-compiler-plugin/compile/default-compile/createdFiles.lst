@@ -1,6 +1,7 @@
 com\shakeelmdsaquib\jobListing\controller\JobController.class
 com\shakeelmdsaquib\jobListing\repository\JobRepository.class
 com\shakeelmdsaquib\jobListing\repository\SearchRepository.class
+com\shakeelmdsaquib\jobListing\service\CronJobService.class
 com\shakeelmdsaquib\jobListing\model\Job.class
 com\shakeelmdsaquib\jobListing\JobListingApplication.class
 com\shakeelmdsaquib\jobListing\repository\SearchRepositoryImpl.class
